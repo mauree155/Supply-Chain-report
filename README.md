@@ -24,6 +24,7 @@ The dataset, provided by Quantum Analytics during training, contains detailed tr
 - Supplier details: name and revenue contribution
 - Shipping costs: transportation modes (road, air, rail, sea)
 This dataset covers over 46,000 product sales, 4,922 order quantities, and total revenue of approximately $577,600. It spans skincare, haircare, and cosmetics product categories, providing a robust foundation for analysis.
+<a href="https://github.com/mauree155/Supply-Chain-report/blob/main/supply%20chain%20dataset.xlsx">Access dataset</a>
 
 ### 3. Tools
 The following tools  were used for this analysis:
