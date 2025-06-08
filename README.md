@@ -42,7 +42,8 @@ The interactive Power BI dashboard developed for this project highlights key met
   ![supply chain dashboard](https://github.com/user-attachments/assets/673613c3-73ac-4a50-9bda-1e6551e0dbf7)
 
   
-
+An interactive PowerBl dashboard can be downloaded <a href="https://app.powerbi.com/groups/me/reports/72fd70d1-5f68-4be5-9b48-db9de1fd29f9/ReportSection?experience=power-bi&clientSideAuth=0">Here</a>
+ 
  ### 5. Analytical Process
 #### Data Cleaning & Preparation
 - Standardized customer demographic labels (Female, Male, Non-binary, Unknown)
