@@ -70,14 +70,14 @@ Order data showed similar concentration, with skincare orders accounting for nea
 Analysis revealed a significant reliance on a handful of suppliers. Supplier 1 alone generated over $157,000 in revenue, while the top five suppliers contributed the majority of total revenue. This underscores a potential vulnerability to disruptions from any single supplier.
 
 #### Shipping Cost and Mode Analysis
--**Cost Differences by Mode:**
+- **Cost Differences by Mode:**
 Shipping costs varied considerably by transportation mode. Road and Air transport had the highest average shipping costs, at $161 and $156, respectively, compared to lower-cost modes like Rail ($153) and Sea ($84). This suggests opportunities to optimize shipping strategies and reduce operational costs.
 - **Demographic Segmentation:**
 Female customers represented the largest customer segment, generating the majority of revenue and orders. Male and non-binary customers also contributed notably, though nearly 30% of revenue came from customers with ‘Unknown’ gender, highlighting a gap in customer data collection.
 
 #### Product and Supplier Performance
 - **Top Products:**
-Revenue was highly concentrated among a few products, with the top three items—across skincare, haircare, and cosmetics—accounting for over 70% of total revenue. This signals an opportunity to diversify product offerings and reduce dependence on a limited number of SKUs.
+Revenue was highly concentrated among a few products, with the top three items—across skincare, haircare, and cosmetics accounting for over 70% of total revenue. This signals an opportunity to diversify product offerings and reduce dependence on a limited number of SKUs.
 - **Supplier Risk Exposure:**
 The reliance on top suppliers creates a potential risk to the supply chain if disruptions occur, as seen with Supplier 1’s dominance in revenue contributions.
 
