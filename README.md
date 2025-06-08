@@ -38,6 +38,7 @@ The interactive Power BI dashboard developed for this project highlights key met
 - Shipping Costs by Transportation Mode – Compares average shipping costs across Road, Air, Rail, and Sea.
 - Product Type by Customer Demographics – Shows which product types are preferred by different customer groups.
 - **Note:** The dashboard provides filters for product types, locations, routes, and SKUs, allowing stakeholders to drill down into specific areas of interest.
+
   ![supply chain dashboard](https://github.com/user-attachments/assets/673613c3-73ac-4a50-9bda-1e6551e0dbf7)
 
   
