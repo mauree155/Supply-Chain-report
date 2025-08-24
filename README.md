@@ -1,13 +1,13 @@
 # Supply-Chain-Performance-Report
 ## Table of Contents
-1. [Project background](project-background)
-2. [Data Source](data-source)
-3. [Tools](tools)
-4. [Dashboard](dashboard)
-5. [Analytical Process](analytical-process)
-6. [key Insights](key-insights)
-7. [Recommendations](recommendations)
-8. [Conclusion](Conclusion)
+1. [Project background](#1-project-background)
+2. [Data Source](#2-data-source)
+3. [Tools](#3-tools)
+4. [Dashboard](#4-dashboard)
+5. [Analytical Process](#5-analytical-process)
+6. [key Insights](#6-key-insights)
+7. [Recommendations](#7-recommendations)
+8. [Conclusion](#8-conclusion)
 
 ### 1. Project background
 This project analyzes the supply chain performance of a company selling a range of skincare, haircare, and cosmetics products. The company collects significant data on product sales, customer demographics, shipping costs, and supplier performance.
